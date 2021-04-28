@@ -4,7 +4,7 @@ const IconLogo = () => (
   <svg
     data-v-423bf9ae=""
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 84 96"
+    viewBox="0 0 90 100"
     class="iconLeft"
   >
     

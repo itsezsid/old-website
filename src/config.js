@@ -7,20 +7,12 @@ module.exports = {
       url: 'https://github.com/itsezsid',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/itsezsid',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/itsezsid',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/itsezsid',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/itsezsid',
+      url: 'https://codesandbox.io/s/github/itsezsid/website',
     },
   ],
 
