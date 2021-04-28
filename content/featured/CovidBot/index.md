@@ -1,7 +1,7 @@
 ---
-date: '3'
+date: '2'
 title: 'CovidBot'
-cover: '../../projects/images/covidbot.png'
+cover: './covidbot.png'
 github: 'https://github.com/itsezsid/covidbot'
 external: 'https://covidbot.itsezsid.com'
 tech:

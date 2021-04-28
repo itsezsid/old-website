@@ -1,7 +1,7 @@
 ---
-date: '4'
+date: '3'
 title: 'Project ARCS'
-cover: '../../projects/images/arcs.png'
+cover: './arcs.png'
 github: 'https://github.com/itsezsid/ARCS'
 tech:
   - Tensorflow

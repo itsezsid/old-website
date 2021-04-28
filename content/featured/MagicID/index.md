@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '1'
 title: 'MagicID'
-cover: '../../projects/images/magicid.png'
+cover: './magicid.png'
 tech:
   - Crystal
   - GraphQL
