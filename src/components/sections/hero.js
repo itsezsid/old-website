@@ -65,12 +65,11 @@ const Hero = () => {
   );
   const four = (
     <p>
-      I'm a High School Senior at {' '}
-      <a href="https://south.dpsbangalore.edu.in/">Delhi Public School
-      Bangalore South</a>and the Chief Engineering Officer at {' '}
-      <a href="https://stackshare.io/companies/foretag">Foretag Inc</a>. I am Full Stack
+      I'm a senior at {' '} <a href="https://south.dpsbangalore.edu.in/">Delhi Public School Bangalore
+      South</a> and the Chief Engineering Officer at {' '}
+      <a href="https://stackshare.io/companies/foretag">Foretag Inc</a>. I'm a Full Stack
       Developer where I focus more on backend development using Crystal,
-      JavaScript and Python. I am interested in electronics and AI/ML.
+      JavaScript and Python and my intrests are in electronics and AI/ML.
     </p>
   );
   const five = (
