@@ -19,13 +19,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Siddharth",
-        short_name: "itsezsid",
+        name: "itsezsid",
+        short_name: "sid",
         start_url: "/",
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: "minimal-ui",
-        icon: "src/images/logo.png"
+        icon: "src/images/favicon/android-chrome-512x512.png"
       }
     },
     `gatsby-plugin-offline`,
@@ -139,12 +139,6 @@ module.exports = {
             }
           }
         ]
-      }
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-45666519-2"
       }
     }
   ]
