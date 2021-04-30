@@ -9,8 +9,8 @@
 </p>
 <p align="center">
   Previous websites:
-  <a href="https://github.com/itsezsid/itsezsid-old-website" target="_blank">First website</a>,
-  <a href="https://github.com/itsezsid/itsezsid" target="_blank">Second website</a>
+  <a href="https://github.com/itsezsid/website/tree/v1" target="_blank">First website</a>,
+  <a href="https://github.com/itsezsid/website/tree/v2" target="_blank">Second website</a>
 </p>
 
 
