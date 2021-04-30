@@ -5,7 +5,7 @@
   itsezsid.com
 </h1>
 <p align="center">
-  <a href="https://itsezsid.com" target="_blank">itsezsid.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel. </a> View on <a href="https://codesandbox.io/s/github/itsezsid/website" target="_blank"> Codesandbox.</a>
+  <a href="https://itsezsid.com" target="_blank">itsezsid.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages. </a> View on <a href="https://codesandbox.io/s/github/itsezsid/website" target="_blank"> Codesandbox.</a>
 </p>
 <p align="center">
   Previous websites:
