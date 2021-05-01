@@ -63,7 +63,7 @@ const Contact = () => {
         Please fill in your message and I will contact you shortly!
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
+      <a className="email-link" href='https://nfhq9q6rpq1.typeform.com/to/h1XIS4id'>
         Say Hello
       </a>
     </StyledContactSection>

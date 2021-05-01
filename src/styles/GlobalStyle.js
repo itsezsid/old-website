@@ -11,14 +11,14 @@ const GlobalStyle = createGlobalStyle`
     --navy: #1B1B1B;
     --light-navy: #2F2F2F;
     --lightest-navy: #333333;
-    --navy-shadow: rgba(51, 51, 51, 0.7);
+    --navy-shadow: rgba(27, 27, 27, 0.7);
     --dark-slate: #495670;
     --slate: #d0d0d0;
     --light-slate: #e1e1e1;
     --lightest-slate: #ececec;
     --white: #e6f1ff;
     --green: #00FFFF;
-    --green-tint: rgba(64, 224, 208, 0.1);
+    --green-tint: rgba(0, 255, 255, 0.4);
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
